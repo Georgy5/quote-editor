@@ -1,5 +1,5 @@
 <main class="container">
-  <%= turbo_frame_tag dom_id(@quote) do %>
+  <%= turbo_frame_tag @quote do %>
     <div class="header">
       <h1>Quotes</h1>
       <%= link_to "New quote",
