@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Learn Hotwire with Turbo Rails tutorial https://www.hotrails.dev/turbo-rails
 
 * Ruby version
+  Ruby 3 and Rails 7
 
 * System dependencies
-
-* Configuration
+  Yarn package manager
+  gem install rails -v 7.0.0
+  bin/setup
 
 * Database creation
+  bin/rails db:create
 
 * Database initialization
+  bin/rails db:seed
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Run "bin/rails s"
