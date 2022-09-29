@@ -6,6 +6,10 @@ ruby ">= 3.0.0"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
+# Use bundle-audit gem to check vulnerabilites
+gem 'bundler-audit', require: false
+gem 'ruby_audit', require: false
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
