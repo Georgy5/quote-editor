@@ -12,6 +12,11 @@
 
   <body>
     <%= render "shared/navbar" %>
+
+    <div class="flash">
+      <%= render "layouts/flash" %>
+    </div>
+
     <%= yield %>
   </body>
 </html>
