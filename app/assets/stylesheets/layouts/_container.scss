@@ -7,7 +7,7 @@
 
   @include media(tabletAndUp) {
     padding-left: var(--space-m);
-    padding-left: var(--space-m);
+    padding-right: var(--space-m);
     max-width: 60rem;
   }
 }
