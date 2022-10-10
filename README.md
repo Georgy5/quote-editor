@@ -1,6 +1,6 @@
 # README
 
-Learn Hotwire with Turbo Rails tutorial https://www.hotrails.dev/turbo-rails
+Implementation of the Turbo Rails tutorial by Alexandre Ruban https://www.hotrails.dev/turbo-rails to learn Hotwire
 
 * Ruby version\
   Ruby 3 and Rails 7
@@ -37,10 +37,14 @@ To get a local copy up and running follow these steps.
 
  \_Steps to execute the app locally_
 
-> Run `bin/rails s` in the console at working directory
+> Run `bin/rails s` in the console in the working directory
 
 ## Running tests
 
  \_Steps to execute the app's test suite locally_
 
 > Run `bin/rails test:all`
+
+## Acknowledgements
+
+Hotwire Tutorial by [Alexandre Ruban on hotrails.dev](https://www.hotrails.dev/)
