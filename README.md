@@ -37,7 +37,7 @@ To get a local copy up and running follow these steps.
 
  \_Steps to execute the app locally_
 
-> Run `bin/rails s` in the console in the working directory
+> Run `bin/rails server` in the console in the working directory
 
 ## Running tests
 
