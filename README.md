@@ -2,21 +2,22 @@
 
 Implementation of the Turbo Rails tutorial by Alexandre Ruban https://www.hotrails.dev/turbo-rails to learn Hotwire
 
-* Ruby version\
+![README_screenshot](https://user-images.githubusercontent.com/2192560/195071365-e56d9535-e041-4e3b-9150-83776900e40b.jpg)
+* Ruby version:\
   Ruby 3 and Rails 7
 
-* System dependencies\
+* System dependencies:\
   Yarn package manager (or NPM - I used Yarn)\
   Bundler
 
-* Database creation\
+* Database creation:\
   Run `bin/rails db:create`\
   Run `bin/rails db:migrate`
 
-* Database initialization\
+* Database initialization:\
   Run `bin/rails db:seed`
 
-* How to run the test suite\
+* How to run the test suite:\
   Run `bin/rails test:all`
 
 ## Getting Started
